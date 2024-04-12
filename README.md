@@ -84,14 +84,65 @@ I am a seasoned Research Fellow with over a decade of experience in microbiome r
 -	Extensive laboratory experience in molecular biology and biochemistry
 
 **University of Birmingham (September 2012 – July 2016)**
-*PhD Biosciences student* (Laboratory of Prof. David Grainger)		Birmingham, United Kingdom
-	Laboratory Demonstrator and Assessor, Bio154 (Genetics I) – assisted the head lecturer in teaching first-year undergraduate prokaryotic and eukaryotic genetics. Also marked the laboratory practical sheets submitted by the students. 
-	Laboratory Demonstrator and Assessor, Bio265 (Genetics II) – assisted the head lecturer in teaching second-year undergraduate prokaryotic and eukaryotic genetics. Also marked the laboratory practical sheets submitted by the students. 
-	Laboratory Demonstrator, Core Maths Workshop – assisted the head lecturer in conducting a first-year undergraduate core maths workshop. 
-	Laboratory Demonstrator, Reading Scientific Papers – assisted the head lecturer in conducting the second-year undergraduate workshop on reading a scientific paper.
-	Underwent undergraduate teaching training at the University of Birmingham. Completed the following courses:
-o	Introduction to learning and teaching in higher education for postgraduates
-o	Laboratory-based demonstrating
+*PhD Biosciences student* (Laboratory of Prof. David Grainger)		
+-	Laboratory Demonstrator and Assessor, Bio154 (Genetics I) – assisted the head lecturer in teaching first-year undergraduate prokaryotic and eukaryotic     
+  genetics. Also marked the laboratory practical sheets submitted by the students. 
+-	Laboratory Demonstrator and Assessor, Bio265 (Genetics II) – assisted the head lecturer in teaching second-year undergraduate prokaryotic and eukaryotic 
+  genetics. Also marked the laboratory practical sheets submitted by the students. 
+-	Laboratory Demonstrator, Core Maths Workshop – assisted the head lecturer in conducting a first-year undergraduate core maths workshop. 
+-	Laboratory Demonstrator, Reading Scientific Papers – assisted the head lecturer in conducting the second-year undergraduate workshop on reading a scientific 
+  paper.
+-	Underwent undergraduate teaching training at the University of Birmingham. Completed the following courses:
+  -	Introduction to learning and teaching in higher education for postgraduates
+  -	Laboratory-based demonstrating
+
+**University of the Philippines – Diliman (September 2009 – February 2012)**
+*Research Assistant* (Marine Natural Products Laboratory) 
+
+-	Laboratory experience in mammalian cell culture and influenza virus propagation
+-	Conducted routine inventory of laboratory supplies and reagents
+-	Managed the funds for the project, “Recombinant protein expression and immunological characterization of de-antigenized human Influenza H3 hemagglutinin”
+-	Reviewed and evaluated existing standard laboratory protocols as well as develop new protocols for virus propagation and protein isolation
+-	Coordinated with collaborators and schedule monthly meetings 
+-	Co-organised a Roundtable Discussion (2009 Annual Roundtable Discussion of the National Academy of Science and Technology)
+
+## EDUCATION
+
+*Doctor of Philosophy in Biosciences*, July 2016
+University of Birmingham
+School of Biosciences, University of Birmingham, Edgbaston, Birmingham, United Kingdom
+Thesis: Understanding intragenic transcription and its regulation
+Supervisor: Professor David C. Grainger
+
+*Master of Science in Microbiology*, June 2009
+University of the Philippines-Diliman
+Institute of Biology, University of the Philippines, Diliman, Quezon City, Philippines
+
+*Bachelor of Science in Biology*, April 2006
+De La Salle University-Manila
+Malate, Manila, Philippines
+
+## PUBLICATIONS
+
+**ORCID ID: 0000-0002-1991-7244**
+**Google Scholar Account: https://scholar.google.co.uk/citations?user=K-i5IsEAAAAJ&hl=en**
+
+Under revision:
+
+Conway J, DeJong EN, White AJ, Dugan B, Rees NP, Parnell SM, **Lamberte LE**, Sharma-Oates A, Sullivan J, Mauro C, van Schaik W,  Anderson G, Bowdish DME, Duggal NA. **Age-related loss of intestinal barrier integrity plays an integral role in thymic involution and T cell ageing**. Research Square rs-3845290 [preprint]. https://doi.org/10.21203/rs.3.rs-3845290/v1. (Submitted to *BMC Microbiome*)
+
+
+In preparation (working titles): 
+**_Staphylococcus haemolyticus_ as a reservoir of antibiotic resistance genes in the preterm infant gut microbiome.** (Research Article)
+**_Staphylococcus haemolyticus_: Insights into pathogenic strains and commensal variation.** (Research Article)  
+
+1. 	**Lamberte LE**, van Schaik W: **Antibiotic resistance in the commensal human gut microbiota.** *Current Opinion in Microbiology 2022*, 68:102150.
+2. 	McInnes RS, McCallum GE, **Lamberte LE**, van Schaik W: **Horizontal transfer of antibiotic resistance genes in the human gut microbiome.** *Curr Opin Microbiol 2020*, 53:35–43.
+3. 	Lankester A, Ahmed S, **Lamberte LE**, Kettles RA, Grainger DC: **The Escherichia coli multiple antibiotic resistance activator protein represses transcription of the lac operon.** *Biochemical Society Transactions 2019*, 47:671–677.
+4. 	Crémazy FGE, Rashid FZM, Haycocks JR, **Lamberte LE**, Grainger DC, Dame RT, R.t D: **Determination of the 3D genome organization of bacteria using Hi-C.** In *Methods in Molecular Biology* 2018:3–18.
+5. 	**Lamberte LE**, Baniulyte G, Singh SS, Stringer AM, Bonocora RP, Stracy M, Kapanidis AN, Wade JT, Grainger DC: Horizontally acquired AT-rich genes in Escherichia coli cause toxicity by sequestering RNA polymerase. *Nat Microbiol* 2017, 2:1–9. 
+6.	**Lamberte LE**, Esperanza EC, Rivera WL. Activity of the Ethanolic Extract of Propolis (EEP) as a potential inhibitor of quorum sensing-mediated pigment production in *Chromobacterium violaceum* and virulence factor production in *Pseudomonas aeruginosa*. *Philipp Agric Scientist* 2011, 94:14-22.  
+
 
 
 
