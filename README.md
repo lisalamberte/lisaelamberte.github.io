@@ -25,14 +25,14 @@ I am a seasoned Research Fellow with over a decade of experience in microbiome r
 
 ## WORK EXPERIENCE
 
-**University of Birmingham (March 2024 - Present)**
+**University of Birmingham (March 2024 - Present)**  
 *Research Fellow* (Laboratory of Dr Graeme Kettles)
 
 - Investigating how the fungal wheat pathogen Zymoseptoria tritici, which is the causal agent of Septoria tritici blotch, evolves to overcome wheat resistance
 - Invited researcher for Science Day at the Teacher of Education (speaking to 7–8-year-olds about being a female scientist)
 - Delivered an offered talk in the session “Microbes as sentinels and solutions to a changing world” at the Microbiology Society Annual Conference 2024 in Edinburgh in April 2024
 
-**University of Birmingham (February 2023 – February 2024)**
+**University of Birmingham (February 2023 – February 2024)**  
 *Research Fellow* (Laboratory of Prof. Robert Jackson)
 
 -	Microbiology Society Event Grant February 2024 - £264.00
@@ -51,7 +51,7 @@ I am a seasoned Research Fellow with over a decade of experience in microbiome r
   -	Genomic Databases: Familiarity with genomic databases such as NCBI and ENA, and their associated tools for sequence retrieval, alignment, and annotation.
   -	Statistical Analysis: Skills in statistical software like R for data analysis, visualization, and interpretation of complex microbiome datasets.
 
-**University of Birmingham (December 2017 – February 2023)**
+**University of Birmingham (December 2017 – February 2023)**  
 *Research Fellow* (Laboratory of Prof. Willem van Schaik)
 
 -	Investigated reservoirs of mobile antibiotic resistance genes in the gut microbiome of preterm infants 
@@ -76,14 +76,14 @@ I am a seasoned Research Fellow with over a decade of experience in microbiome r
 -	Managed the laboratory by establishing a lab management rota where members have particular assignments for the week (e.g. emptying bins, autoclaving pipette tips, and purchasing consumables)
 -	Set up Professor van Schaik’s lab from scratch by contributing to purchasing consumables and equipment as well as creating and maining Biological and Chemical Risk Assessment Forms
 
-**University of Birmingham (April 2016 – November 2017)**
+**University of Birmingham (April 2016 – November 2017)**  
 *Research Fellow* (Laboratory of Prof. David Grainger)			
 
 -	Published 2 original articles, one in Nature Microbiology (Impact Factor 17.745) and Biochemical Society Transactions (Impact Factor 5.407). 
 -	Published a book chapter in Bacterial Chromatin: Methods and Protocols, which is part of the Methods in Molecular Biology Book Series
 -	Extensive laboratory experience in molecular biology and biochemistry
 
-**University of Birmingham (September 2012 – July 2016)**
+**University of Birmingham (September 2012 – July 2016)**  
 *PhD Biosciences student* (Laboratory of Prof. David Grainger)		
 -	Laboratory Demonstrator and Assessor, Bio154 (Genetics I) – assisted the head lecturer in teaching first-year undergraduate prokaryotic and eukaryotic     
   genetics. Also marked the laboratory practical sheets submitted by the students. 
@@ -96,7 +96,7 @@ I am a seasoned Research Fellow with over a decade of experience in microbiome r
   -	Introduction to learning and teaching in higher education for postgraduates
   -	Laboratory-based demonstrating
 
-**University of the Philippines – Diliman (September 2009 – February 2012)**
+**University of the Philippines – Diliman (September 2009 – February 2012)**  
 *Research Assistant* (Marine Natural Products Laboratory) 
 
 -	Laboratory experience in mammalian cell culture and influenza virus propagation
