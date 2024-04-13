@@ -28,83 +28,32 @@ I am a seasoned Research Fellow with over a decade of experience in microbiome r
 **University of Birmingham (March 2024 - Present)**  
 *Research Fellow* (Laboratory of Dr Graeme Kettles)
 
-- Investigating how the fungal wheat pathogen Zymoseptoria tritici, which is the causal agent of Septoria tritici blotch, evolves to overcome wheat resistance
-- Invited researcher for Science Day at the Teacher of Education (speaking to 7–8-year-olds about being a female scientist)
-- Delivered an offered talk in the session “Microbes as sentinels and solutions to a changing world” at the Microbiology Society Annual Conference 2024 in Edinburgh in April 2024
+Currently, I am investigating the evolutionary mechanisms of the fungal wheat pathogen Zymoseptoria tritici, focusing on its adaptation to overcome wheat resistance. Additionally, I contribute to science outreach efforts by serving as an invited researcher for Science Day at the School of Education, where I engage young students, particularly 7–8-year-olds, and share insights about the role of female scientists. I also presented my research findings at the Microbiology Society Annual Conference 2024 in Edinburgh, enriching the scientific discourse in my field.
 
 **University of Birmingham (February 2023 – February 2024)**  
 *Research Fellow* (Laboratory of Prof. Robert Jackson)
 
--	Microbiology Society Event Grant February 2024 - £264.00
--	An Invited Speaker at the Philippine Society for Microbiology Cluster 1 Symposium in January 2024
--	Currently leading the delivery of the DiversiTree Work Package 2 (Ecosystem functionality: the microbiome and tree resilience) 
--	Planned, coordinated, and executed field trips for sampling leaves from forests in Yorkshire and Inverness (despite no prior experience)
--	Planned, coordinated, and led an in planta infection assay experiment which involved the participation of a group of researchers (despite no prior experience)
--	Coordinated with Foresters and Tree Climbers for field trips
--	Participated in various public engagement activities 
-  -	Members Hour, Institute of Chartered Foresters 2023 – delivered a seminar on DiversiTree to members of the Institute 
-  -	Woodsmeet 2023 – delivered a seminar on DiversiTree to UK Foresters
--	An Invited Speaker at the Birmingham Institute of Forest Research – Free Air Carbon Dioxide Enrichment (BiFoR FACE) Facility Workshop in November 2023. 
--	Expertise in open source bioinformatics platforms and tools
-  -	Bioinformatics Software: Experience with various bioinformatics tools and platforms such as QIIME, Mothur, MG-RAST, MetaPhlAn, BLAST, HMMER, etc., for sequence analysis, taxonomic classification, metagenomics, and functional annotation.
-  -	Sequence Analysis Tools: Experience with software packages for sequence assembly (e.g., Velvet, SPAdes), alignment (e.g., Bowtie, BWA), and variant calling (e.g., GATK) for genomic data analysis.
-  -	Genomic Databases: Familiarity with genomic databases such as NCBI and ENA, and their associated tools for sequence retrieval, alignment, and annotation.
-  -	Statistical Analysis: Skills in statistical software like R for data analysis, visualization, and interpretation of complex microbiome datasets.
+In this role, I led various projects, including the DiversiTree Work Package 2, focusing on ecosystem functionality and tree resilience. I organized and executed field trips for leaf sampling in Yorkshire and Inverness and coordinated an in planta infection assay experiment involving a team of researchers. Furthermore, I actively participated in public engagement activities and interdisciplinary events, contributing to the dissemination of scientific knowledge and fostering collaboration across different domains.
 
 **University of Birmingham (December 2017 – February 2023)**  
 *Research Fellow* (Laboratory of Prof. Willem van Schaik)
 
--	Investigated reservoirs of mobile antibiotic resistance genes in the gut microbiome of preterm infants 
--	Awarded £3000 in funding by the University of Birmingham to enable my research. Training on this technique allowed me to contribute to the writing of a grant which was successful and awarded by the BBSRC (£588,844). 
--	An Invited Speaker at national and international conferences/seminars
--	Published 2 review articles in Current Opinion in Microbiology (Impact Factor 7.934).  
--	Reviewed articles in highly reputed journals: Microbiota and Host, Access Microbiology, American Journal of Clinical Nutrition, Microbiology, Microbial Genomics, Journal of Antimicrobial Chemotherapy, mSystems. 
--	Prepared manuscripts for publication in peer-reviewed journals
--	Extensive laboratory experience in bacterial genetics, bacterial physiology, and biochemistry 
--	Expertise in open source bioinformatics platforms and tools
-  - Bioinformatics Software: Experience with various bioinformatics tools and platforms such as QIIME, Mothur, MG-RAST, MetaPhlAn, PICRUSt, BLAST, HMMER, EMBOSS, etc., for sequence analysis, taxonomic classification, metagenomics, and functional annotation.
-  -	Sequence Analysis Tools: Experience with software packages for sequence assembly (e.g., Velvet, SPAdes), alignment (e.g., Bowtie, BWA), and variant calling (e.g., GATK) for genomic data analysis.
-  -	Genomic Databases: Familiarity with genomic databases such as NCBI and ENA, and their associated tools for sequence retrieval, alignment, and annotation.
-  -	Statistical Analysis: Skills in statistical software like R for data analysis, visualization, and interpretation of complex microbiome datasets.
--	Delivered Small Group Teaching sessions (2019 - 2020) to second-year undergraduate students on the topic of Pathogenicity 
--	Supervision and training of undergraduate (Biomedical Science) and postgraduate (MSc) students in their dissertation projects, as well as marking, assessing and provision of timely feedback regarding student projects
--	Participated in various public engagement activities 
-  -	IMI Summer School 2021, where Year 12 students studying Biology can have the experience of being a microbiologist for a week – designed and delivered a laboratory practical session on whole genome DNA extraction from bacteria (Online)
-  -	CoCoMad Festival 2019 (Cotteridge Community Festival of Music, Art, and Dance), where over 6000+ participants attended – ran family-friendly activities with the theme “Good and Bad Bugs in your Gut). These activities were very well received by the participants of       the festival.  
--	Represented my institute’s Postdoctoral Researchers at an institutional level as a member of the institutional executive committee (Institute of Microbiology and Infection Executive Committee) and a college level (College of Medical and Dental Sciences
-  Postdoctoral/Early Career Researcher Career Development and Training)
--	Managed the laboratory by establishing a lab management rota where members have particular assignments for the week (e.g. emptying bins, autoclaving pipette tips, and purchasing consumables)
--	Set up Professor van Schaik’s lab from scratch by contributing to purchasing consumables and equipment as well as creating and maining Biological and Chemical Risk Assessment Forms
+In this role, I investigated mobile antibiotic resistance genes in the gut microbiome of preterm infants. My contributions led to successful grant funding and publications in high-impact journals. Additionally, I played an active role in public engagement initiatives, including delivering seminars and organizing family-friendly activities. I also supervised and trained undergraduate and postgraduate students, facilitated workshops, and represented postdoctoral researchers at both institutional and college levels.
 
 **University of Birmingham (April 2016 – November 2017)**  
 *Research Fellow* (Laboratory of Prof. David Grainger)			
 
--	Published 2 original articles, one in Nature Microbiology (Impact Factor 17.745) and Biochemical Society Transactions (Impact Factor 5.407). 
--	Published a book chapter in Bacterial Chromatin: Methods and Protocols, which is part of the Methods in Molecular Biology Book Series
--	Extensive laboratory experience in molecular biology and biochemistry
+In this role, I authored publications in prestigious scientific journals and contributed to a book chapter. My work focused on molecular biology and biochemistry, where I gained extensive laboratory experience. I successfully set up laboratory facilities and managed laboratory operations, including procurement and risk assessment.
 
 **University of Birmingham (September 2012 – July 2016)**  
 *PhD Biosciences student* (Laboratory of Prof. David Grainger)		
--	Laboratory Demonstrator and Assessor, Bio154 (Genetics I) – assisted the head lecturer in teaching first-year undergraduate prokaryotic and eukaryotic     
-  genetics. Also marked the laboratory practical sheets submitted by the students. 
--	Laboratory Demonstrator and Assessor, Bio265 (Genetics II) – assisted the head lecturer in teaching second-year undergraduate prokaryotic and eukaryotic 
-  genetics. Also marked the laboratory practical sheets submitted by the students. 
--	Laboratory Demonstrator, Core Maths Workshop – assisted the head lecturer in conducting a first-year undergraduate core maths workshop. 
--	Laboratory Demonstrator, Reading Scientific Papers – assisted the head lecturer in conducting the second-year undergraduate workshop on reading a scientific 
-  paper.
--	Underwent undergraduate teaching training at the University of Birmingham. Completed the following courses:
-  -	Introduction to learning and teaching in higher education for postgraduates
-  -	Laboratory-based demonstrating
+
+In this role, in addition to investigating intragenic transcription and its regulation in *Escherichia coli*, I served as a laboratory demonstrator and assessor for undergraduate genetics courses. I also underwent teaching training and facilitated workshops on scientific paper reading and core mathematics. These experiences enhanced my skills in science education and communication.
 
 **University of the Philippines – Diliman (September 2009 – February 2012)**  
 *Research Assistant* (Marine Natural Products Laboratory) 
 
--	Laboratory experience in mammalian cell culture and influenza virus propagation
--	Conducted routine inventory of laboratory supplies and reagents
--	Managed the funds for the project, “Recombinant protein expression and immunological characterization of de-antigenized human Influenza H3 hemagglutinin”
--	Reviewed and evaluated existing standard laboratory protocols as well as develop new protocols for virus propagation and protein isolation
--	Coordinated with collaborators and schedule monthly meetings 
--	Co-organised a Roundtable Discussion (2009 Annual Roundtable Discussion of the National Academy of Science and Technology)
+In this role, I conducted research on mammalian cell culture and influenza virus propagation. I managed project funds, coordinated with collaborators, and organized scientific discussions. Additionally, I reviewed laboratory protocols and conducted inventory management, contributing to the smooth operation of research activities.
 
 ## EDUCATION
 
