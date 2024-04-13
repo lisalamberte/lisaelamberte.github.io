@@ -1,10 +1,10 @@
 # Lisa Ellevera Lamberte, PhD
 **L.E.Lamberte@bham.ac.uk**
 
-**Current Affiliation:** 
-School of Biosciences
-University of Birmingham
-Edgbaston, Birmingham
+**Current Affiliation:**   
+School of Biosciences  
+University of Birmingham  
+Edgbaston, Birmingham  
 United Kingdom
 
 ## BACKGROUND
