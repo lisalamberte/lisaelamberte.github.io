@@ -80,11 +80,7 @@ Under revision:
   
 Conway J, DeJong EN, White AJ, Dugan B, Rees NP, Parnell SM, **Lamberte LE**, Sharma-Oates A, Sullivan J, Mauro C, van Schaik W,  Anderson G, Bowdish DME, Duggal NA. **Age-related loss of intestinal barrier integrity plays an integral role in thymic involution and T cell ageing**. Research Square rs-3845290 [preprint]. https://doi.org/10.21203/rs.3.rs-3845290/v1. (Submitted to *BMC Microbiome*)  
   
-In preparation (working titles):  
-  
-**_Staphylococcus haemolyticus_ as a reservoir of antibiotic resistance genes in the preterm infant gut microbiome.** (Research Article)
-**_Staphylococcus haemolyticus_: Insights into pathogenic strains and commensal variation.** (Research Article)  
-  
+ 
 1. 	**Lamberte LE**, van Schaik W: **Antibiotic resistance in the commensal human gut microbiota.** *Current Opinion in Microbiology 2022*, 68:102150.  
 2. 	McInnes RS, McCallum GE, **Lamberte LE**, van Schaik W: **Horizontal transfer of antibiotic resistance genes in the human gut microbiome.** *Curr Opin Microbiol 2020*, 53:35–43.  
 3. 	Lankester A, Ahmed S, **Lamberte LE**, Kettles RA, Grainger DC: **The Escherichia coli multiple antibiotic resistance activator protein represses transcription of the lac operon.** *Biochemical Society Transactions 2019*, 47:671–677.  
